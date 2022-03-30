@@ -18,7 +18,7 @@ At some point during installation, your computer might signal this program as a 
 Donwload this repository (click on the green "Code" button, then "Download Zip"). Then once that's downloaded, right-click it to unzip/extract (you might need a program like WinRAR or 7zip). Click the generated folder, then the "dist" folder, then double-click the executable ("stardewCropEqualizer.exe"). There you go.
 
 ## I found a mistake/got an error/wanna say hi
-You can comment ont the [official reddit post]().
+You can comment ont the [official reddit post](https://www.reddit.com/r/StardewValley/comments/ts6n62/i_made_a_little_calculator_called_stardew_crop/?utm_source=share&utm_medium=web2x&context=3).
 
 ## Crops **NOT** included in this program:
 - Ancient fruit
